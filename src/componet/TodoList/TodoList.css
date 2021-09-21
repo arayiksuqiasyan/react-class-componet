@@ -1,0 +1,39 @@
+
+.todolist {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.todolist-logo {
+    background-image: url("https://www.freeiconspng.com/uploads/to-do-list-icon-buy-this-icon-for--0-48-1.png");
+    width: 50px;
+    height: 50px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.todo-list-inputs {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-right: calc(50% - 85px);
+}
+
+.todo-list-inputs input {
+    border: none;
+    outline: none;
+    margin: 5px;
+    border-radius: 4px;
+    height: 20px;
+    transition: 0.5s all ease-in-out;
+    padding-left: 10px;
+}
+
+.todo-list-inputs input:focus {
+    box-shadow: 0 0 5px black, 0 0 3px, 0 0 7px black, 0 0 3px;
+}
