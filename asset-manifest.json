@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.03101923.chunk.css",
-    "main.js": "/static/js/main.0e404aab.chunk.js",
-    "main.js.map": "/static/js/main.0e404aab.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1d8d108d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1d8d108d.js.map",
-    "static/js/2.7d515899.chunk.js": "/static/js/2.7d515899.chunk.js",
-    "static/js/2.7d515899.chunk.js.map": "/static/js/2.7d515899.chunk.js.map",
-    "static/js/3.bcab64bb.chunk.js": "/static/js/3.bcab64bb.chunk.js",
-    "static/js/3.bcab64bb.chunk.js.map": "/static/js/3.bcab64bb.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.03101923.chunk.css.map": "/static/css/main.03101923.chunk.css.map",
-    "static/js/2.7d515899.chunk.js.LICENSE.txt": "/static/js/2.7d515899.chunk.js.LICENSE.txt"
+    "main.css": "/arayiksuqiasyan/react-class-componet/static/css/main.03101923.chunk.css",
+    "main.js": "/arayiksuqiasyan/react-class-componet/static/js/main.0e404aab.chunk.js",
+    "main.js.map": "/arayiksuqiasyan/react-class-componet/static/js/main.0e404aab.chunk.js.map",
+    "runtime-main.js": "/arayiksuqiasyan/react-class-componet/static/js/runtime-main.8e02bcf6.js",
+    "runtime-main.js.map": "/arayiksuqiasyan/react-class-componet/static/js/runtime-main.8e02bcf6.js.map",
+    "static/js/2.7d515899.chunk.js": "/arayiksuqiasyan/react-class-componet/static/js/2.7d515899.chunk.js",
+    "static/js/2.7d515899.chunk.js.map": "/arayiksuqiasyan/react-class-componet/static/js/2.7d515899.chunk.js.map",
+    "static/js/3.bcab64bb.chunk.js": "/arayiksuqiasyan/react-class-componet/static/js/3.bcab64bb.chunk.js",
+    "static/js/3.bcab64bb.chunk.js.map": "/arayiksuqiasyan/react-class-componet/static/js/3.bcab64bb.chunk.js.map",
+    "index.html": "/arayiksuqiasyan/react-class-componet/index.html",
+    "static/css/main.03101923.chunk.css.map": "/arayiksuqiasyan/react-class-componet/static/css/main.03101923.chunk.css.map",
+    "static/js/2.7d515899.chunk.js.LICENSE.txt": "/arayiksuqiasyan/react-class-componet/static/js/2.7d515899.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d8d108d.js",
+    "static/js/runtime-main.8e02bcf6.js",
     "static/js/2.7d515899.chunk.js",
     "static/css/main.03101923.chunk.css",
     "static/js/main.0e404aab.chunk.js"
